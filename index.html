@@ -3,88 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <title>Timetables</title>
-    <style>
-        * {
-            box-sizing: border-box;
-        }
-        body {
-            margin: 0;
-            padding: 0;
-            display: flex;
-            height: 100vh;
-            font-size: 1.5vh;
-        }
-        #list {
-            padding: 0px;
-            margin: 0px;
-            width: 30%;
-            height: 100vh;
-            list-style: none;
-            display: flex;
-            flex-direction: column;
-            flex-wrap: wrap;
-            justify-content: space-around;
-        }
-        #list:hover {
-            cursor: pointer;
-        }
-        li {
-            background-color: white;
-            width: 33.33333333%;
-            height: 4.3478260869565217391304347826086956521739130434782608695652173913043478260869565217391304347826086956521739130434782608vh;
-            padding: 0px;
-            margin: 0px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            user-select: none;
-            font-size: 2vh;
-        }
-        li:hover {
-            background-color: antiquewhite;
-            cursor: pointer;
-        }
-        #table {
-            width: 70%;
-            border-collapse: collapse;
-            height: 100vh;
-            table-layout: fixed;
-            word-wrap: break-word
-        }
-        td {
-            padding: 1vh;
-            margin: 0;
-            border: 1px black solid;
-            width: 20%;
-            text-align: center;
-            height: 7.69230769231vh;
-        }
-        #header {
-            padding: 0;
-            margin: 0;
-            border: 1px black solid;
-            width: 100%;
-            text-align: center;
-            font-size: 2vh;
-        }
-    </style>
+    <link rel="stylesheet" href="./src/styles/style.css">
 </head>
 <body>
     <ul id="list"></ul>
     <table id="table">
-        <tr>     <th id="header" colspan="5"></th>         </tr>
-        <tr> <td></td><td></td><td></td><td></td><td></td> </tr>
-        <tr> <td></td><td></td><td></td><td></td><td></td> </tr>
-        <tr> <td></td><td></td><td></td><td></td><td></td> </tr>
-        <tr> <td></td><td></td><td></td><td></td><td></td> </tr>
-        <tr> <td></td><td></td><td></td><td></td><td></td> </tr>
-        <tr> <td></td><td></td><td></td><td></td><td></td> </tr>
-        <tr> <td></td><td></td><td></td><td></td><td></td> </tr>
-        <tr> <td></td><td></td><td></td><td></td><td></td> </tr>
-        <tr> <td></td><td></td><td></td><td></td><td></td> </tr>
-        <tr> <td></td><td></td><td></td><td></td><td></td> </tr>
-        <tr> <td></td><td></td><td></td><td></td><td></td> </tr>
-        <tr> <td></td><td></td><td></td><td></td><td></td> </tr>
+        <tr>     <th id="header" colspan="6"></th>         </tr>
+        <tr class="lessons"> <td>Nr</td><td>Poniedziałek</td><td>Wtorek</td><td>Środa</td><td>Czwartek</td><td>Piątek</td> </tr>
+        <tr class="lessons"> <td>0 <br> 7:10 - 7:55</td><td></td><td></td><td></td><td></td><td></td> </tr>
+        <tr class="lessons"> <td>1 <br> 8:00 - 8:45</td><td></td><td></td><td></td><td></td><td></td> </tr>
+        <tr class="lessons"> <td>2 <br> 8:50 - 9:35</td><td></td><td></td><td></td><td></td><td></td> </tr>
+        <tr class="lessons"> <td>3 <br> 9:50 - 10:35</td><td></td><td></td><td></td><td></td><td></td> </tr>
+        <tr class="lessons"> <td>4 <br> 10:40 - 11:25</td><td></td><td></td><td></td><td></td><td></td> </tr>
+        <tr class="lessons"> <td>5 <br> 11:30 - 12:15</td><td></td><td></td><td></td><td></td><td></td> </tr>
+        <tr class="lessons"> <td>6 <br> 12:30 - 13:15</td><td></td><td></td><td></td><td></td><td></td> </tr>
+        <tr class="lessons"> <td>7 <br> 13:20 - 14:05</td><td></td><td></td><td></td><td></td><td></td> </tr>
+        <tr class="lessons"> <td>8 <br> 14:10 - 14:55</td><td></td><td></td><td></td><td></td><td></td> </tr>
+        <tr class="lessons"> <td>9 <br> 15:00 - 15:45</td><td></td><td></td><td></td><td></td><td></td> </tr>
+        <tr class="lessons"> <td>10 <br> 15:50 - 16:35</td><td></td><td></td><td></td><td></td><td></td> </tr>
+        <tr class="lessons"> <td>12 <br> 0:00 - 0:00</td><td></td><td></td><td></td><td></td><td></td> </tr>
     </table>
     
     <script>
@@ -93,32 +30,29 @@
             .then((timetables) => {
                 console.log(timetables)
                 const teachers = Object.keys(timetables);
-                const trs = document.querySelectorAll("tr")
+                let trs = document.querySelectorAll("tr.lessons")
                 teachers.sort();
 
-                for (teacher of teachers) {
+                for (let teacher of teachers) {
                     let li = document.createElement("li");
                     li.innerHTML = teacher;
                     li.id = teacher;
-                    li.onclick = (
-                        function(teacher){
-                            return function(){ fillTable(teacher); }
-                        }
-                    )(teacher);
+                    li.onclick = ((teacher) => { return () =>{ fillTable(teacher); }})(teacher);
                     list.appendChild(li);
                 }
 
                 function fillTable(teacher){
-                    for (li of list.children) {
+                    for (let li of list.children) {
                         li.style.removeProperty("background-color");
                     }
-                    document.getElementById(teacher).style["background-color"] = "wheat";
-                    for (var day in timetables[teacher]){ // 0-4
-                        //console.log("day: "+day);
-                        for (var lesson in timetables[teacher][day]){ // 0-11
-                            //console.log("lesson: "+lesson);
-                            //table.children[0].children[lesson].children[day].innerHTML = timetables[teacher][day][lesson]
-                            trs[Number(lesson)+1].children[day].innerHTML = timetables[teacher][day][lesson][0] + "<br>" + timetables[teacher][day][lesson][1];
+                    document.getElementById(teacher).style["background-color"] = "#17f9ff";
+                    console.log(trs)
+                    for (let day in timetables[teacher]){ // 0-4
+                        for (let lesson in timetables[teacher][day]){ // 0-11
+                            console.log(day)
+                            trs[Number(lesson)+1].children[Number(day) + 1].innerHTML = (timetables[teacher][day][lesson][0] ? timetables[teacher][day][lesson][0] : "") 
+                            + "<br>" 
+                            + (timetables[teacher][day][lesson][1] != 0 ? timetables[teacher][day][lesson][1] : "");
                         }
                     }
                     header.innerHTML = teacher;
