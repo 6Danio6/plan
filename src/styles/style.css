@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 100vh;
+    font-size: 1.5vh;
+    background-color: #00b4fc;
+    color: #001449;
+    font-weight: 300;
+    letter-spacing: 0.001vw;
+    overflow:hidden;
+}
+#list {
+
+    padding: 0px;
+    margin: 2vmin;
+    width: 30%;
+    height: 100vh;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#list:hover {
+    cursor: pointer;
+}
+li {
+    background-color: #005bc5;
+    border-radius: 17px;
+    width: 20%;
+    height: 4vh;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+    font-size: 2vh;
+}
+li:hover {
+    background-color: #17f9ff;
+    cursor: pointer;
+}
+#table {
+    width: 70%;
+    border-collapse: collapse;
+    height: 100vh;
+    word-wrap: break-word
+}
+td {
+    padding: 0.5vh;
+    margin: 0;
+    border: 1px #001449 solid;
+    width: 12%;
+    text-align: center;
+    height: 3.5vh;
+}
+td:first-of-type {
+    width: 5%;
+}
+.lessons * {
+    height: 4vh;
+}
+#header {
+    padding: 0;
+    margin: 0;
+    border: 1px #001449 solid;
+    width: 100%;
+    text-align: center;
+    font-size: 2.5rem;
+    height: 6vh;
+    border:none;
+}
