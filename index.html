@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pl">
 <head>
     <meta charset="UTF-8">
     <title>Timetables</title>
@@ -23,42 +23,6 @@
         <tr class="lessons"> <td>10 <br> 15:50 - 16:35</td><td></td><td></td><td></td><td></td><td></td> </tr>
         <tr class="lessons"> <td>12 <br> 0:00 - 0:00</td><td></td><td></td><td></td><td></td><td></td> </tr>
     </table>
-    
-    <script>
-        fetch('https://raw.githubusercontent.com/6Danio6/6Danio6.github.io/main/timetables.json')
-            .then((response) => response.json())
-            .then((timetables) => {
-                console.log(timetables)
-                const teachers = Object.keys(timetables);
-                let trs = document.querySelectorAll("tr.lessons")
-                teachers.sort();
-
-                for (let teacher of teachers) {
-                    let li = document.createElement("li");
-                    li.innerHTML = teacher;
-                    li.id = teacher;
-                    li.onclick = ((teacher) => { return () =>{ fillTable(teacher); }})(teacher);
-                    list.appendChild(li);
-                }
-
-                function fillTable(teacher){
-                    for (let li of list.children) {
-                        li.style.removeProperty("background-color");
-                    }
-                    document.getElementById(teacher).style["background-color"] = "#17f9ff";
-                    console.log(trs)
-                    for (let day in timetables[teacher]){ // 0-4
-                        for (let lesson in timetables[teacher][day]){ // 0-11
-                            console.log(day)
-                            trs[Number(lesson)+1].children[Number(day) + 1].innerHTML = (timetables[teacher][day][lesson][0] ? timetables[teacher][day][lesson][0] : "") 
-                            + "<br>" 
-                            + (timetables[teacher][day][lesson][1] != 0 ? timetables[teacher][day][lesson][1] : "");
-                        }
-                    }
-                    header.innerHTML = teacher;
-                }
-            }
-        );
-    </script>
+    <script src="./src/utils/script.js"></script>
 </body>
 </html>
