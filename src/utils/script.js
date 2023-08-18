@@ -1,4 +1,4 @@
-fetch('https://raw.githubusercontent.com/6Danio6/6Danio6.github.io/main/timetables.json')
+fetch('https://raw.githubusercontent.com/6Danio6/6Danio6.github.io/plan/timetables.json')
             .then((response) => response.json())
             .then((timetables) => {
                 const teachers = Object.keys(timetables).sort();
