@@ -164,8 +164,8 @@
                 "Religia"
             ],
             [
-                0,
-                0
+                "62",
+                "Religia"
             ],
             [
                 "62",
@@ -206,8 +206,8 @@
                 "Religia"
             ],
             [
-                0,
-                0
+                "18",
+                "Religia"
             ],
             [
                 "37",
@@ -514,8 +514,8 @@
                 0
             ],
             [
-                0,
-                0
+                "B109",
+                "Matematyka"
             ],
             [
                 0,
@@ -584,8 +584,8 @@
                 "Matematyka"
             ],
             [
-                0,
-                0
+                "26",
+                "Matematyka"
             ],
             [
                 0,
@@ -668,8 +668,12 @@
                 "Chemia"
             ],
             [
-                0,
-                0
+                "26",
+                "Matematyka"
+            ],
+            [
+                "26",
+                "Matematyka"
             ],
             [
                 "26",
@@ -680,12 +684,8 @@
                 "Matematyka"
             ],
             [
-                0,
-                0
-            ],
-            [
-                0,
-                0
+                "26",
+                "Matematyka"
             ],
             [
                 0,
@@ -710,8 +710,8 @@
                 0
             ],
             [
-                0,
-                0
+                "26",
+                "Matematyka"
             ],
             [
                 "26",
@@ -722,20 +722,20 @@
                 "Chemia"
             ],
             [
-                0,
-                0
+                "26",
+                "Matematyka"
             ],
             [
-                0,
-                0
+                "26",
+                "Matematyka"
             ],
             [
                 "26",
                 "Zaj\u0119ciazwychowawc\u0105"
             ],
             [
-                0,
-                0
+                "26",
+                "Matematyka"
             ],
             [
                 0,
@@ -1522,8 +1522,8 @@
                 0
             ],
             [
-                0,
-                0
+                "34",
+                "J\u0119zykniemiecki-1/2"
             ],
             [
                 "38",
@@ -1572,8 +1572,8 @@
                 0
             ],
             [
-                0,
-                0
+                "34",
+                "J\u0119zykniemiecki-2/2"
             ],
             [
                 0,
@@ -1726,8 +1726,8 @@
                 "Plastyka"
             ],
             [
-                0,
-                0
+                "34",
+                "J\u0119zykniemiecki-2/2"
             ],
             [
                 "34",
@@ -1824,8 +1824,8 @@
                 "Podstawyprzedsi\u0119biorczo\u015bci"
             ],
             [
-                0,
-                0
+                "33",
+                "Dzia\u0142alno\u015b\u0107gospodarcza"
             ],
             [
                 "33",
@@ -2100,16 +2100,16 @@
                 "Wychowaniefizyczne-1/2"
             ],
             [
-                0,
-                0
+                "SG1",
+                "Wychowaniefizyczne-1/2"
             ],
             [
-                0,
-                0
+                "SG1",
+                "Wychowaniefizyczne-1/2"
             ],
             [
-                0,
-                0
+                "SG1",
+                "Wychowaniefizyczne-1/2"
             ],
             [
                 0,
@@ -2192,20 +2192,20 @@
                 "Wychowaniefizyczne-1/2"
             ],
             [
-                0,
-                0
+                "B102",
+                "Zaj\u0119ciazwychowawc\u0105"
             ],
             [
-                0,
-                0
+                "BSG",
+                "Wychowaniefizyczne"
             ],
             [
-                0,
-                0
+                "BSG",
+                "Wychowaniefizyczne"
             ],
             [
-                0,
-                0
+                "BSG",
+                "Wychowaniefizyczne"
             ],
             [
                 0,
@@ -2282,8 +2282,8 @@
                 0
             ],
             [
-                0,
-                0
+                "B105",
+                "Zaj\u0119ciazwychowawc\u0105"
             ],
             [
                 "BSG",
@@ -2340,8 +2340,58 @@
                 0
             ],
             [
+                "BSG",
+                "Wychowaniefizyczne-1/2"
+            ],
+            [
+                "BSG",
+                "Wychowaniefizyczne-1/2"
+            ],
+            [
+                "BSG",
+                "Wychowaniefizyczne-1/2"
+            ],
+            [
                 0,
                 0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                "SG2",
+                "Wychowaniefizyczne-2/2"
+            ],
+            [
+                "SG2",
+                "Wychowaniefizyczne-2/2"
+            ],
+            [
+                "SG2",
+                "Wychowaniefizyczne-2/2"
+            ],
+            [
+                "SG2",
+                "Wychowaniefizyczne-2/2"
+            ],
+            [
+                "SG2",
+                "Wychowaniefizyczne-2/2"
+            ],
+            [
+                "SG2",
+                "Wychowaniefizyczne-2/2"
             ],
             [
                 0,
@@ -2370,66 +2420,16 @@
         ],
         [
             [
-                "SG2",
-                "Wychowaniefizyczne-2/2"
+                "SG1",
+                "Wychowaniefizyczne"
             ],
             [
-                "SG2",
-                "Wychowaniefizyczne-2/2"
+                "SG1",
+                "Wychowaniefizyczne"
             ],
             [
-                "SG2",
-                "Wychowaniefizyczne-2/2"
-            ],
-            [
-                "SG2",
-                "Wychowaniefizyczne-2/2"
-            ],
-            [
-                "SG2",
-                "Wychowaniefizyczne-2/2"
-            ],
-            [
-                "SG2",
-                "Wychowaniefizyczne-2/2"
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ]
-        ],
-        [
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
+                "SG1",
+                "Wychowaniefizyczne"
             ],
             [
                 0,
@@ -2584,8 +2584,8 @@
                 "Biologia"
             ],
             [
-                0,
-                0
+                "37",
+                "Biologia"
             ],
             [
                 "37",
@@ -2600,12 +2600,12 @@
                 "Biologia"
             ],
             [
-                0,
-                0
+                "37",
+                "Biologia"
             ],
             [
-                0,
-                0
+                "37",
+                "Biologia"
             ],
             [
                 0,
@@ -2692,8 +2692,8 @@
                 "Biologia"
             ],
             [
-                0,
-                0
+                "37",
+                "Biologia"
             ],
             [
                 0,
@@ -2790,8 +2790,8 @@
                 "Geografia"
             ],
             [
-                0,
-                0
+                "36",
+                "Geografia"
             ],
             [
                 0,
@@ -2824,10 +2824,6 @@
         ],
         [
             [
-                0,
-                0
-            ],
-            [
                 "36",
                 "Geografia"
             ],
@@ -2848,8 +2844,12 @@
                 "Geografia"
             ],
             [
-                0,
-                0
+                "36",
+                "Geografia"
+            ],
+            [
+                "36",
+                "Geografia"
             ],
             [
                 "36",
@@ -2994,12 +2994,12 @@
                 0
             ],
             [
-                0,
-                0
+                "36",
+                "Geografia-1/3"
             ],
             [
-                0,
-                0
+                "36",
+                "Geografia-1/3"
             ],
             [
                 0,
@@ -3204,8 +3204,8 @@
                 "J\u0119zykhiszpa\u0144ski-1/4"
             ],
             [
-                0,
-                0
+                "32",
+                "J\u0119zykhiszpa\u0144ski-1/4"
             ],
             [
                 0,
@@ -3254,8 +3254,8 @@
                 "J\u0119zykhiszpa\u0144ski-2/2"
             ],
             [
-                0,
-                0
+                "38",
+                "Zaj\u0119ciazwychowawc\u0105"
             ],
             [
                 "20",
@@ -3352,8 +3352,8 @@
                 "J\u0119zykniemiecki-2/2"
             ],
             [
-                0,
-                0
+                "62",
+                "J\u0119zykniemiecki"
             ],
             [
                 0,
@@ -3490,8 +3490,8 @@
                 "J\u0119zykniemiecki-2/4"
             ],
             [
-                0,
-                0
+                "40",
+                "J\u0119zykniemiecki-1/2"
             ],
             [
                 "62",
@@ -3848,16 +3848,16 @@
                 "Historia"
             ],
             [
-                0,
-                0
+                "44",
+                "HistoriaD_DW"
             ],
             [
                 "44",
                 "Historia"
             ],
             [
-                0,
-                0
+                "23",
+                "Wiedzaospo\u0142ecze\u0144stwieD_DW"
             ],
             [
                 "38",
@@ -4336,8 +4336,8 @@
         ],
         [
             [
-                0,
-                0
+                "27",
+                "Fizyka-2/2"
             ],
             [
                 0,
@@ -4356,12 +4356,12 @@
                 "Fizyka"
             ],
             [
-                0,
-                0
+                "27",
+                "Fizyka-1/3"
             ],
             [
-                0,
-                0
+                "27",
+                "Fizyka-1/3"
             ],
             [
                 "27",
@@ -4542,8 +4542,8 @@
                 0
             ],
             [
-                0,
-                0
+                "38",
+                "Historia"
             ],
             [
                 "38",
@@ -4554,12 +4554,12 @@
                 0
             ],
             [
-                0,
-                0
+                "38",
+                "Historia"
             ],
             [
-                0,
-                0
+                "28",
+                "Historia"
             ],
             [
                 "28",
@@ -4570,8 +4570,8 @@
                 "Historia"
             ],
             [
-                0,
-                0
+                "28",
+                "Historia"
             ],
             [
                 0,
@@ -4616,8 +4616,8 @@
                 "Historia"
             ],
             [
-                0,
-                0
+                "B103",
+                "Historia"
             ],
             [
                 "B103",
@@ -4704,8 +4704,8 @@
                 "Historia"
             ],
             [
-                0,
-                0
+                "38",
+                "Historia"
             ],
             [
                 "38",
@@ -5158,12 +5158,12 @@
                 0
             ],
             [
-                0,
-                0
+                "43",
+                "J\u0119zykniemiecki-2/2"
             ],
             [
-                0,
-                0
+                "43",
+                "J\u0119zykniemiecki-2/2"
             ],
             [
                 0,
@@ -5220,8 +5220,8 @@
                 "J\u0119zykniemiecki-2/4"
             ],
             [
-                0,
-                0
+                "31",
+                "J\u0119zykniemiecki-2/4"
             ],
             [
                 0,
@@ -5254,8 +5254,8 @@
                 0
             ],
             [
-                0,
-                0
+                "46",
+                "J\u0119zykniemiecki-1/2"
             ],
             [
                 0,
@@ -5298,12 +5298,12 @@
                 "Zaj\u0119ciazwychowawc\u0105"
             ],
             [
-                0,
-                0
+                "27",
+                "Fizyka"
             ],
             [
-                0,
-                0
+                "27",
+                "Fizyka"
             ],
             [
                 "27",
@@ -5472,8 +5472,8 @@
                 0
             ],
             [
-                0,
-                0
+                "27",
+                "Fizyka"
             ],
             [
                 "27",
@@ -5514,8 +5514,8 @@
                 "Fizyka"
             ],
             [
-                0,
-                0
+                "27",
+                "Fizyka"
             ],
             [
                 0,
@@ -5570,12 +5570,12 @@
                 0
             ],
             [
-                0,
-                0
+                "SG1",
+                "Wychowaniefizyczne-1/2"
             ],
             [
-                0,
-                0
+                "SG1",
+                "Wychowaniefizyczne-1/2"
             ],
             [
                 0,
@@ -5628,16 +5628,16 @@
                 "Wychowaniefizyczne-2/2"
             ],
             [
-                0,
-                0
+                "SG2",
+                "Wychowaniefizyczne-2/2"
             ],
             [
-                0,
-                0
+                "SG2",
+                "Wychowaniefizyczne-2/2"
             ],
             [
-                0,
-                0
+                "SG2",
+                "Wychowaniefizyczne-2/2"
             ],
             [
                 0,
@@ -5868,8 +5868,8 @@
                 "J\u0119zykpolski"
             ],
             [
-                0,
-                0
+                "28",
+                "J\u0119zykpolski"
             ],
             [
                 "28",
@@ -5968,16 +5968,16 @@
                 "J\u0119zykpolski"
             ],
             [
-                0,
-                0
+                "28",
+                "J\u0119zykpolski"
             ],
             [
                 "28",
                 "J\u0119zykpolski"
             ],
             [
-                0,
-                0
+                "28",
+                "J\u0119zykpolski"
             ],
             [
                 0,
@@ -6116,12 +6116,12 @@
                 0
             ],
             [
-                0,
-                0
+                "16",
+                "Matematyka"
             ],
             [
-                0,
-                0
+                "16",
+                "Matematyka"
             ],
             [
                 "16",
@@ -6154,16 +6154,16 @@
                 0
             ],
             [
-                0,
-                0
+                "16",
+                "Matematyka"
             ],
             [
                 "16",
                 "Matematyka"
             ],
             [
-                0,
-                0
+                "16",
+                "Matematyka"
             ],
             [
                 "16",
@@ -6220,12 +6220,12 @@
                 "Matematyka"
             ],
             [
-                0,
-                0
+                "B202",
+                "Matematyka"
             ],
             [
-                0,
-                0
+                "B202",
+                "Matematyka"
             ],
             [
                 "B202",
@@ -6266,16 +6266,16 @@
                 0
             ],
             [
-                0,
-                0
+                "16",
+                "Zaj\u0119ciazwychowawc\u0105"
             ],
             [
-                0,
-                0
+                "16",
+                "Matematyka"
             ],
             [
-                0,
-                0
+                "16",
+                "Matematyka"
             ],
             [
                 "16",
@@ -6310,8 +6310,8 @@
                 0
             ],
             [
-                0,
-                0
+                "31",
+                "J\u0119zykangielski-1/2"
             ],
             [
                 0,
@@ -6360,8 +6360,8 @@
                 0
             ],
             [
-                0,
-                0
+                "31",
+                "J\u0119zykangielski-1/2"
             ],
             [
                 "31",
@@ -6372,8 +6372,8 @@
                 0
             ],
             [
-                0,
-                0
+                "31",
+                "Zaj\u0119ciazwychowawc\u0105"
             ],
             [
                 "31",
@@ -6464,12 +6464,12 @@
                 "J\u0119zykangielski-2/2"
             ],
             [
-                0,
-                0
+                "B106",
+                "J\u0119zykangielski-1/2"
             ],
             [
-                0,
-                0
+                "B106",
+                "J\u0119zykangielski-1/2"
             ],
             [
                 "B106",
@@ -6526,8 +6526,8 @@
                 "J\u0119zykangielski-1/2"
             ],
             [
-                0,
-                0
+                "31",
+                "J\u0119zykangielski-1/2"
             ],
             [
                 0,
@@ -6562,8 +6562,8 @@
                 0
             ],
             [
-                0,
-                0
+                "32",
+                "J\u0119zykangielski-2/2"
             ],
             [
                 0,
@@ -6670,12 +6670,12 @@
                 0
             ],
             [
-                0,
-                0
+                "32",
+                "J\u0119zykangielski-2/2"
             ],
             [
-                0,
-                0
+                "32",
+                "J\u0119zykangielski-2/2"
             ],
             [
                 0,
@@ -6716,12 +6716,12 @@
                 "J\u0119zykangielski-1/2"
             ],
             [
-                0,
-                0
+                "B105",
+                "J\u0119zykangielski-2/2"
             ],
             [
-                0,
-                0
+                "B105",
+                "J\u0119zykangielski-2/2"
             ],
             [
                 "B105",
@@ -6830,20 +6830,20 @@
                 "Pracowniabazdanych-2/2"
             ],
             [
-                0,
-                0
+                "41",
+                "Pracowniaprogramowania-2/2"
             ],
             [
-                0,
-                0
+                "41",
+                "Pracowniaprogramowania-2/2"
             ],
             [
-                0,
-                0
+                "41",
+                "Pracowniabazdanych-2/2"
             ],
             [
-                0,
-                0
+                "41",
+                "Pracowniabazdanych-2/2"
             ],
             [
                 0,
@@ -6880,8 +6880,8 @@
                 "Pracowniabazdanych-2/2"
             ],
             [
-                0,
-                0
+                "48",
+                "Testowanieidokumentowanieaplikacji"
             ],
             [
                 "44",
@@ -6906,20 +6906,20 @@
         ],
         [
             [
-                0,
-                0
+                "41",
+                "Pracowniaprogramowania-2/2"
             ],
             [
-                0,
-                0
+                "41",
+                "Pracowniaprogramowania-2/2"
             ],
             [
-                0,
-                0
+                "41",
+                "Pracowniaprogramowania-2/2"
             ],
             [
-                0,
-                0
+                "41",
+                "Pracowniaprogramowania-2/2"
             ],
             [
                 "57",
@@ -6930,20 +6930,20 @@
                 "SiecikomputeroweD_DW"
             ],
             [
-                0,
-                0
+                "41",
+                "Pracowniabazdanych-2/2"
             ],
             [
-                0,
-                0
+                "41",
+                "Pracowniabazdanych-2/2"
             ],
             [
-                0,
-                0
+                "41",
+                "Pracowniabazdanych-2/2"
             ],
             [
-                0,
-                0
+                "41",
+                "Pracowniabazdanych-2/2"
             ],
             [
                 0,
@@ -6956,20 +6956,20 @@
         ],
         [
             [
-                0,
-                0
+                "B203",
+                "Pracowniabazdanych-2/2"
             ],
             [
-                0,
-                0
+                "B107",
+                "BazydanychD_DW"
             ],
             [
-                0,
-                0
+                "B107",
+                "BazydanychD_DW"
             ],
             [
-                0,
-                0
+                "B107",
+                "Testowanieidokumentowanieaplikacji"
             ],
             [
                 "B107",
@@ -7010,8 +7010,8 @@
                 "SiecikomputeroweD_DW"
             ],
             [
-                0,
-                0
+                "41",
+                "Pracowniabazdanych-2/2"
             ],
             [
                 "33",
@@ -7120,8 +7120,8 @@
                 "J\u0119zykniemiecki-2/4"
             ],
             [
-                0,
-                0
+                "21",
+                "J\u0119zykniemiecki-1/2"
             ],
             [
                 "21",
@@ -7174,8 +7174,8 @@
                 0
             ],
             [
-                0,
-                0
+                "21",
+                "J\u0119zykniemiecki-1/2"
             ],
             [
                 "21",
@@ -7266,8 +7266,8 @@
                 0
             ],
             [
-                0,
-                0
+                "21",
+                "J\u0119zykniemiecki-2/2"
             ],
             [
                 "21",
@@ -7566,28 +7566,28 @@
                 0
             ],
             [
-                0,
-                0
+                "43",
+                "Pracowniaprogramowaniaaplikacjimobilnych-1/2"
             ],
             [
                 "43",
                 "Informatyka-1/2"
             ],
             [
-                0,
-                0
+                "42",
+                "Programowanieaplikacjimobilnych"
             ],
             [
-                0,
-                0
+                "23",
+                "Programowanieaplikacjimobilnych"
             ],
             [
                 "46",
                 "Podstawyprogramowania"
             ],
             [
-                0,
-                0
+                "56",
+                "Pracowniaprogramowaniaaplikacjimobilnych-2/2"
             ],
             [
                 0,
@@ -7598,8 +7598,8 @@
                 "Pracowniapodstawprogramowania-1/2"
             ],
             [
-                0,
-                0
+                "56",
+                "Pracowniaprogramowaniaaplikacjimobilnych-2/2"
             ],
             [
                 0,
@@ -7744,12 +7744,12 @@
                 0
             ],
             [
-                0,
-                0
+                "56",
+                "Informatyka-1/2"
             ],
             [
-                0,
-                0
+                "56",
+                "Informatyka-1/2"
             ],
             [
                 0,
@@ -7790,16 +7790,16 @@
                 0
             ],
             [
-                0,
-                0
+                "58",
+                "Informatyka-1/2"
             ],
             [
-                0,
-                0
+                "58",
+                "Informatyka-1/2"
             ],
             [
-                0,
-                0
+                "58",
+                "Pracowniaprogramowaniaaplikacjimobilnych-1/2"
             ],
             [
                 0,
@@ -7864,16 +7864,16 @@
         ],
         [
             [
-                0,
-                0
+                "SG1",
+                "Wychowaniefizyczne-2/2"
             ],
             [
-                0,
-                0
+                "SG1",
+                "Wychowaniefizyczne-2/2"
             ],
             [
-                0,
-                0
+                "SG1",
+                "Wychowaniefizyczne-2/2"
             ],
             [
                 0,
@@ -8132,8 +8132,8 @@
                 0
             ],
             [
-                0,
-                0
+                "B108A",
+                "Religia"
             ],
             [
                 "B108A",
@@ -8274,8 +8274,8 @@
                 "Religia"
             ],
             [
-                0,
-                0
+                "62",
+                "Religia"
             ],
             [
                 "62",
@@ -8384,12 +8384,12 @@
                 0
             ],
             [
-                0,
-                0
+                "18",
+                "J\u0119zykangielskizawodowy"
             ],
             [
-                0,
-                0
+                "18",
+                "J\u0119zykangielskizawodowy"
             ],
             [
                 0,
@@ -8620,8 +8620,8 @@
         ],
         [
             [
-                0,
-                0
+                "16",
+                "J\u0119zykangielskizawodowy-1/2"
             ],
             [
                 "23",
@@ -8674,8 +8674,8 @@
                 0
             ],
             [
-                0,
-                0
+                "32",
+                "J\u0119zykangielskizawodowy-2/2"
             ],
             [
                 0,
@@ -9082,24 +9082,24 @@
                 0
             ],
             [
-                0,
-                0
+                "23",
+                "J\u0119zykpolski"
             ],
             [
-                0,
-                0
+                "23",
+                "J\u0119zykpolski"
             ],
             [
                 "26",
                 "J\u0119zykpolski"
             ],
             [
-                0,
-                0
+                "23",
+                "Zaj\u0119ciazwychowawc\u0105"
             ],
             [
-                0,
-                0
+                "23",
+                "J\u0119zykpolski"
             ],
             [
                 "23",
@@ -9132,12 +9132,12 @@
                 0
             ],
             [
-                0,
-                0
+                "B102",
+                "J\u0119zykpolski"
             ],
             [
-                0,
-                0
+                "B102",
+                "J\u0119zykpolski"
             ],
             [
                 0,
@@ -9190,73 +9190,23 @@
                 "J\u0119zykpolski"
             ],
             [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ]
-        ],
-        [
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                "B201",
+                "28",
                 "J\u0119zykpolski"
             ],
             [
-                "B201",
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                "23",
                 "J\u0119zykpolski"
             ],
             [
-                "B201",
+                "23",
                 "J\u0119zykpolski"
             ],
             [
@@ -9286,6 +9236,48 @@
                 0
             ],
             [
+                "B201",
+                "J\u0119zykpolski"
+            ],
+            [
+                "B201",
+                "J\u0119zykpolski"
+            ],
+            [
+                "B201",
+                "J\u0119zykpolski"
+            ],
+            [
+                "B201",
+                "J\u0119zykpolski"
+            ],
+            [
+                "B201",
+                "J\u0119zykpolski"
+            ],
+            [
+                "B201",
+                "J\u0119zykpolski"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
                 0,
                 0
             ],
@@ -9298,8 +9290,16 @@
                 "J\u0119zykpolski"
             ],
             [
-                0,
-                0
+                "23",
+                "J\u0119zykpolski"
+            ],
+            [
+                "23",
+                "J\u0119zykpolski"
+            ],
+            [
+                "23",
+                "J\u0119zykpolski"
             ],
             [
                 "23",
@@ -9342,20 +9342,20 @@
                 "Matematyka"
             ],
             [
-                0,
-                0
-            ],
-            [
-                0,
-                0
+                "18",
+                "Matematyka"
             ],
             [
                 "18",
                 "Matematyka"
             ],
             [
-                0,
-                0
+                "18",
+                "Matematyka"
+            ],
+            [
+                "18",
+                "Matematyka"
             ],
             [
                 "18",
@@ -9434,12 +9434,12 @@
                 0
             ],
             [
-                0,
-                0
+                "18",
+                "Matematyka"
             ],
             [
-                0,
-                0
+                "18",
+                "Matematyka"
             ],
             [
                 "18",
@@ -9450,8 +9450,8 @@
                 0
             ],
             [
-                0,
-                0
+                "18",
+                "Matematyka"
             ],
             [
                 "18",
@@ -9542,12 +9542,12 @@
                 "Matematyka"
             ],
             [
-                0,
-                0
+                "18",
+                "Matematyka"
             ],
             [
-                0,
-                0
+                "18",
+                "Matematyka"
             ],
             [
                 "18",
@@ -9558,8 +9558,8 @@
                 "Zaj\u0119ciazwychowawc\u0105"
             ],
             [
-                0,
-                0
+                "18",
+                "Matematyka"
             ],
             [
                 0,
@@ -9694,16 +9694,16 @@
                 0
             ],
             [
-                0,
-                0
+                "26",
+                "Chemia"
             ],
             [
                 0,
                 0
             ],
             [
-                0,
-                0
+                "26",
+                "Chemia"
             ],
             [
                 0,
@@ -9744,12 +9744,12 @@
                 "Chemia"
             ],
             [
-                0,
-                0
+                "B109",
+                "Chemia"
             ],
             [
-                0,
-                0
+                "B109",
+                "Chemia"
             ],
             [
                 "B109",
@@ -10862,12 +10862,12 @@
                 "Wychowaniefizyczne-2/2"
             ],
             [
-                0,
-                0
+                "SG2",
+                "Wychowaniefizyczne-2/2"
             ],
             [
-                0,
-                0
+                "SG2",
+                "Wychowaniefizyczne-2/2"
             ],
             [
                 0,
@@ -10908,28 +10908,28 @@
                 0
             ],
             [
-                0,
-                0
+                "BSG1",
+                "Wychowaniefizyczne-2/2"
             ],
             [
-                0,
-                0
+                "BSG1",
+                "Wychowaniefizyczne-2/2"
             ],
             [
-                0,
-                0
+                "BSG1",
+                "Wychowaniefizyczne-2/2"
             ],
             [
-                0,
-                0
+                "BSG1",
+                "Wychowaniefizyczne"
             ],
             [
-                0,
-                0
+                "BSG1",
+                "Wychowaniefizyczne"
             ],
             [
-                0,
-                0
+                "BSG1",
+                "Wychowaniefizyczne"
             ],
             [
                 0,
@@ -11644,16 +11644,16 @@
         ],
         [
             [
-                0,
-                0
+                "SG2",
+                "Wychowaniefizyczne-1/2"
             ],
             [
-                0,
-                0
+                "SG2",
+                "Wychowaniefizyczne-1/2"
             ],
             [
-                0,
-                0
+                "SG2",
+                "Wychowaniefizyczne-1/2"
             ],
             [
                 0,
@@ -12118,16 +12118,16 @@
                 0
             ],
             [
-                0,
-                0
+                "38",
+                "Pracowniaorganizacjipracystacji-1/3"
             ],
             [
-                0,
-                0
+                "38",
+                "Pracowniaorganizacjipracystacji-1/3"
             ],
             [
-                0,
-                0
+                "38",
+                "Pracowniaorganizacjipracystacji-1/3"
             ],
             [
                 0,
@@ -12454,16 +12454,16 @@
                 0
             ],
             [
-                0,
-                0
+                "38",
+                "Organizacjaprzewoz\u00f3wkolejowych-1/3"
             ],
             [
                 0,
                 0
             ],
             [
-                0,
-                0
+                "46",
+                "Organizacjaprzewoz\u00f3wkolejowych-1/3"
             ],
             [
                 0,
@@ -12610,8 +12610,8 @@
                 0
             ],
             [
-                0,
-                0
+                "17",
+                "Matematyka"
             ],
             [
                 "17",
@@ -12664,8 +12664,8 @@
                 "Matematyka"
             ],
             [
-                0,
-                0
+                "B108",
+                "Matematyka"
             ],
             [
                 "B203",
@@ -12726,8 +12726,8 @@
                 0
             ],
             [
-                0,
-                0
+                "17",
+                "Matematyka"
             ],
             [
                 "50",
@@ -12768,12 +12768,12 @@
                 "Informatyka-1/2"
             ],
             [
-                0,
-                0
+                "17",
+                "Matematyka"
             ],
             [
-                0,
-                0
+                "17",
+                "Matematyka"
             ],
             [
                 0,
@@ -13386,16 +13386,16 @@
                 "Systemybazdanych"
             ],
             [
-                0,
-                0
+                "42",
+                "Pracowniaprogramowania-1/2"
             ],
             [
-                0,
-                0
+                "42",
+                "Pracowniabazdanych-1/2"
             ],
             [
-                0,
-                0
+                "42",
+                "Pracowniabazdanych-1/2"
             ],
             [
                 0,
@@ -13412,8 +13412,8 @@
                 0
             ],
             [
-                0,
-                0
+                "40",
+                "Pracowniabazdanych-1/2"
             ],
             [
                 "40",
@@ -13470,32 +13470,32 @@
                 0
             ],
             [
-                0,
-                0
+                "40",
+                "Pracowniaprogramowania-1/2"
             ],
             [
-                0,
-                0
+                "40",
+                "Pracowniaprogramowania-1/2"
             ],
             [
-                0,
-                0
+                "40",
+                "Pracowniaprogramowania-1/2"
             ],
             [
-                0,
-                0
+                "40",
+                "Pracowniabazdanych-1/2"
             ],
             [
-                0,
-                0
+                "40",
+                "Pracowniabazdanych-1/2"
             ],
             [
-                0,
-                0
+                "40",
+                "Pracowniabazdanych-1/2"
             ],
             [
-                0,
-                0
+                "40",
+                "Pracowniabazdanych-1/2"
             ],
             [
                 0,
@@ -13524,12 +13524,12 @@
                 "Pracowniabazdanych-1/2"
             ],
             [
-                0,
-                0
+                "31",
+                "Bazydanych"
             ],
             [
-                0,
-                0
+                "47",
+                "Bazydanych"
             ],
             [
                 "40",
@@ -13562,8 +13562,8 @@
                 "Pracowniaprogramowania-1/2"
             ],
             [
-                0,
-                0
+                "40",
+                "Pracowniabazdanych-1/2"
             ],
             [
                 "40",
@@ -13582,12 +13582,12 @@
                 "Pracowniabazdanych-1/2"
             ],
             [
-                0,
-                0
+                "40",
+                "Pracowniaprogramowania-1/2"
             ],
             [
-                0,
-                0
+                "40",
+                "Pracowniaprogramowania-1/2"
             ],
             [
                 "40",
@@ -13684,8 +13684,8 @@
                 0
             ],
             [
-                0,
-                0
+                "B201",
+                "J\u0119zykpolski"
             ],
             [
                 0,
@@ -13718,20 +13718,20 @@
                 0
             ],
             [
-                0,
-                0
+                "33",
+                "J\u0119zykpolski"
             ],
             [
-                0,
-                0
+                "26",
+                "J\u0119zykpolski"
             ],
             [
                 "38",
                 "J\u0119zykpolski"
             ],
             [
-                0,
-                0
+                "17",
+                "J\u0119zykpolski"
             ],
             [
                 0,
@@ -13768,16 +13768,16 @@
                 "J\u0119zykpolski"
             ],
             [
-                0,
-                0
+                "27",
+                "J\u0119zykpolski"
             ],
             [
-                0,
-                0
+                "32",
+                "J\u0119zykpolski"
             ],
             [
-                0,
-                0
+                "32",
+                "J\u0119zykpolski"
             ],
             [
                 0,
@@ -14318,32 +14318,32 @@
                 0
             ],
             [
-                0,
-                0
+                "46",
+                "Pracowniasystem\u00f3wmikroprocesorowych-1/6"
             ],
             [
-                0,
-                0
+                "56",
+                "Pracowniasystem\u00f3wmikroprocesorowych-1/6"
             ],
             [
                 "48",
                 "Pracowniaurz\u0105dze\u0144automatykiprzemys\u0142owej-2/2"
             ],
             [
-                0,
-                0
+                "46",
+                "Pracowniasystem\u00f3wmikroprocesorowych-1/3"
             ],
             [
-                0,
-                0
+                "50",
+                "Systemymikroprocesorowe-1/3"
             ],
             [
-                0,
-                0
+                "28",
+                "Systemymikroprocesorowe-1/3"
             ],
             [
-                0,
-                0
+                "46",
+                "Pracowniasystem\u00f3wmikroprocesorowych-1/3"
             ],
             [
                 "23",
@@ -14566,8 +14566,8 @@
         ],
         [
             [
-                0,
-                0
+                "18",
+                "Instalacjeautomatykiprzemys\u0142owej-2/3"
             ],
             [
                 "21",
@@ -14582,20 +14582,20 @@
                 "Pracowniaurz\u0105dze\u0144automatykiprzemys\u0142owej-1/2"
             ],
             [
-                0,
-                0
+                "21",
+                "Urz\u0105dzeniaautomatykiprzemys\u0142owej-2/3"
             ],
             [
-                0,
-                0
+                "48",
+                "Urz\u0105dzeniaautomatykiprzemys\u0142owej-2/3"
             ],
             [
-                0,
-                0
+                "27",
+                "Instalacjeautomatykiprzemys\u0142owej-2/3"
             ],
             [
-                0,
-                0
+                "48",
+                "Instalacjeautomatykiprzemys\u0142owej-2/3"
             ],
             [
                 "33",
@@ -14630,32 +14630,32 @@
                 "Elektrotechnikaielektronika-2/4"
             ],
             [
-                0,
-                0
+                "47",
+                "Eksploatacjaurz\u0105dze\u0144elektronicznych-1/3"
             ],
             [
-                0,
-                0
+                "47",
+                "Eksploatacjaurz\u0105dze\u0144elektronicznych-1/6"
             ],
             [
-                0,
-                0
+                "47",
+                "Eksploatacjaurz\u0105dze\u0144elektronicznych-1/6"
             ],
             [
-                0,
-                0
+                "47",
+                "Eksploatacjaurz\u0105dze\u0144elektronicznych-1/6"
             ],
             [
-                0,
-                0
+                "46",
+                "Eksploatacjaurz\u0105dze\u0144elektronicznych-1/6"
             ],
             [
-                0,
-                0
+                "47",
+                "Eksploatacjaurz\u0105dze\u0144elektronicznych-1/6"
             ],
             [
-                0,
-                0
+                "47",
+                "Eksploatacjaurz\u0105dze\u0144elektronicznych-1/3"
             ],
             [
                 0,
@@ -14672,8 +14672,8 @@
                 0
             ],
             [
-                0,
-                0
+                "18",
+                "Eksploatacjaurz\u0105dze\u0144elektronicznych-1/3"
             ],
             [
                 0,
@@ -14696,16 +14696,16 @@
                 "Urz\u0105dzeniaiinstalacjeelektroniczne-1/4"
             ],
             [
-                0,
-                0
+                "47",
+                "Pracowniaeksploatacjiurz\u0105dze\u0144elektronicznych-1/3"
             ],
             [
-                0,
-                0
+                "47",
+                "Pracowniaeksploatacjiurz\u0105dze\u0144elektronicznych-1/3"
             ],
             [
-                0,
-                0
+                "47",
+                "Pracowniaeksploatacjiurz\u0105dze\u0144elektronicznych-1/3"
             ],
             [
                 0,
@@ -14746,16 +14746,16 @@
                 "Pracowniamonta\u017cuinstalacjiiurz\u0105dze\u0144elektronicznych-1/4"
             ],
             [
-                0,
-                0
+                "47",
+                "Pracowniaeksploatacjiurz\u0105dze\u0144elektronicznych-1/6"
             ],
             [
-                0,
-                0
+                "47",
+                "Pracowniaeksploatacjiurz\u0105dze\u0144elektronicznych-1/6"
             ],
             [
-                0,
-                0
+                "47",
+                "Pracowniaeksploatacjiurz\u0105dze\u0144elektronicznych-1/6"
             ],
             [
                 0,
@@ -14792,8 +14792,8 @@
                 0
             ],
             [
-                0,
-                0
+                "37",
+                "Zaj\u0119ciazwychowawc\u0105"
             ],
             [
                 "47",
@@ -14830,16 +14830,16 @@
                 "Pracowniaeksploatacjiurz\u0105dze\u0144elektronicznych-1/7"
             ],
             [
-                0,
-                0
+                "47",
+                "Eksploatacjaurz\u0105dze\u0144elektronicznych-1/6"
             ],
             [
-                0,
-                0
+                "47",
+                "Pracowniaeksploatacjiurz\u0105dze\u0144elektronicznych-1/6"
             ],
             [
-                0,
-                0
+                "47",
+                "Pracowniaeksploatacjiurz\u0105dze\u0144elektronicznych-1/6"
             ],
             [
                 0,
@@ -15126,16 +15126,16 @@
                 0
             ],
             [
-                0,
-                0
+                "51",
+                "Informatyka-1/2"
             ],
             [
                 0,
                 0
             ],
             [
-                0,
-                0
+                "51",
+                "Informatyka-2/3"
             ],
             [
                 0,
@@ -15176,16 +15176,16 @@
                 "Informatyka-2/2"
             ],
             [
-                0,
-                0
+                "51",
+                "Informatyka-2/3"
             ],
             [
                 0,
                 0
             ],
             [
-                0,
-                0
+                "51",
+                "Informatyka-2/2"
             ],
             [
                 0,
@@ -15287,40 +15287,6 @@
                 0,
                 0
             ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ]
-        ],
-        [
             [
                 0,
                 0
@@ -15352,14 +15318,48 @@
             [
                 0,
                 0
+            ]
+        ],
+        [
+            [
+                "51",
+                "Informatyka-2/2"
             ],
             [
-                0,
-                0
+                "51",
+                "Informatyka-2/2"
             ],
             [
-                0,
-                0
+                "51",
+                "Informatyka-1/2"
+            ],
+            [
+                "51",
+                "Informatyka-2/2"
+            ],
+            [
+                "51",
+                "Informatyka-2/2"
+            ],
+            [
+                "51",
+                "Informatyka-2/2"
+            ],
+            [
+                "51",
+                "Informatyka-2/2"
+            ],
+            [
+                "51",
+                "Informatyka-1/2"
+            ],
+            [
+                "51",
+                "Informatyka-1/2"
+            ],
+            [
+                "51",
+                "Informatyka-2/2"
             ],
             [
                 0,
@@ -15826,8 +15826,8 @@
         ],
         [
             [
-                0,
-                0
+                "20",
+                "J\u0119zykangielskizawodowy-2/3"
             ],
             [
                 0,
@@ -15986,12 +15986,12 @@
                 0
             ],
             [
-                0,
-                0
+                "28",
+                "Eksploatacjahandlowakolei-1/3"
             ],
             [
-                0,
-                0
+                "28",
+                "Technikaruchukolejowego-2/3"
             ],
             [
                 "27",
@@ -16146,28 +16146,28 @@
                 0
             ],
             [
-                0,
-                0
+                "B104",
+                "Eksploatacjataboruszynowego-2/3"
             ],
             [
-                0,
-                0
+                "B104",
+                "Eksploatacjataboruszynowego-2/3"
             ],
             [
-                0,
-                0
+                "B104",
+                "Pracowniaeksploatacji\u015brodk\u00f3wtransportuszynowego-2/3"
             ],
             [
-                0,
-                0
+                "B106",
+                "Pracowniaeksploatacji\u015brodk\u00f3wtransportuszynowego-2/3"
             ],
             [
-                0,
-                0
+                "B104",
+                "Pracowniaeksploatacji\u015brodk\u00f3wtransportuszynowego-2/3"
             ],
             [
-                0,
-                0
+                "B104",
+                "Pracowniaeksploatacji\u015brodk\u00f3wtransportuszynowego-2/3"
             ],
             [
                 0,
@@ -16362,12 +16362,12 @@
                 "Maszynyiurz\u0105dzeniaelektryczne-2/4"
             ],
             [
-                0,
-                0
+                "B104",
+                "Eksploatacjaelektrycznychpojazd\u00f3wtrakcyjnych-2/6"
             ],
             [
-                0,
-                0
+                "B104",
+                "Eksploatacjaelektrycznychpojazd\u00f3wtrakcyjnych-2/6"
             ],
             [
                 0,
@@ -16398,78 +16398,28 @@
                 0
             ],
             [
-                0,
-                0
+                "37",
+                "Taborszynowy-2/6"
             ],
             [
-                0,
-                0
+                "37",
+                "Taborszynowy-2/6"
             ],
             [
-                0,
-                0
+                "37",
+                "Eksploatacjataboruszynowego-2/6"
             ],
             [
-                0,
-                0
+                "37",
+                "Eksploatacjataboruszynowego-2/6"
             ],
             [
-                0,
-                0
+                "37",
+                "Taborszynowy-2/6"
             ],
             [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ]
-        ],
-        [
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                0
+                "37",
+                "Taborszynowy-2/6"
             ],
             [
                 0,
@@ -16589,6 +16539,48 @@
                 0,
                 0
             ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
             [
                 0,
                 0
@@ -16611,15 +16603,23 @@
             ],
             [
                 "20",
+                "Taborszynowy-2/3"
+            ],
+            [
+                "20",
+                "Taborszynowy-2/3"
+            ],
+            [
+                "20",
                 "Kolejowepojazdyszynowe-1/4"
             ],
             [
-                0,
-                0
+                "27",
+                "Taborszynowy-2/3"
             ],
             [
-                0,
-                0
+                "16",
+                "Taborszynowy-2/3"
             ],
             [
                 0,
@@ -16658,8 +16658,8 @@
                 0
             ],
             [
-                0,
-                0
+                "SwF",
+                "Kompetencjespo\u0142eczne"
             ],
             [
                 0,
@@ -16808,8 +16808,8 @@
                 0
             ],
             [
-                0,
-                0
+                "SwF",
+                "Kompetencjespo\u0142eczne"
             ],
             [
                 0,
@@ -16906,8 +16906,8 @@
                 0
             ],
             [
-                0,
-                0
+                "44",
+                "Wiedzaospo\u0142ecze\u0144stwie"
             ],
             [
                 "46",
@@ -16918,8 +16918,8 @@
                 0
             ],
             [
-                0,
-                0
+                "23",
+                "Wiedzaospo\u0142ecze\u0144stwie"
             ],
             [
                 0,
@@ -16952,28 +16952,28 @@
                 0
             ],
             [
-                0,
-                0
+                "B101",
+                "Wiedzaospo\u0142ecze\u0144stwie"
+            ],
+            [
+                "B101",
+                "Wiedzaospo\u0142ecze\u0144stwie"
             ],
             [
                 0,
                 0
             ],
             [
-                0,
-                0
-            ],
-            [
-                0,
-                0
+                "23",
+                "Wiedzaospo\u0142ecze\u0144stwie"
             ],
             [
                 "28",
                 "Wiedzaospo\u0142ecze\u0144stwie"
             ],
             [
-                0,
-                0
+                "16",
+                "Wiedzaospo\u0142ecze\u0144stwie"
             ],
             [
                 0,
@@ -17162,20 +17162,20 @@
                 0
             ],
             [
-                0,
-                0
+                "43",
+                "Pracowniaaplikacjiwebowych-1/2"
             ],
             [
-                0,
-                0
+                "43",
+                "Pracowniaaplikacjiwebowych-2/2"
             ],
             [
-                0,
-                0
+                "43",
+                "Pracowniaaplikacjiwebowych-1/2"
             ],
             [
-                0,
-                0
+                "18",
+                "Programowanieaplikacjiwebowych"
             ],
             [
                 0,
@@ -17220,12 +17220,12 @@
                 "Pracowniawitryninternetowych-2/2"
             ],
             [
-                0,
-                0
+                "41",
+                "Pracowniaaplikacjiwebowych-1/2"
             ],
             [
-                0,
-                0
+                "41",
+                "Pracowniaaplikacjiwebowych-1/2"
             ],
             [
                 0,
@@ -17262,20 +17262,20 @@
                 0
             ],
             [
-                0,
-                0
+                "23",
+                "Programowanieaplikacjiwebowych"
             ],
             [
-                0,
-                0
+                "22",
+                "Programowanieaplikacjiwebowych"
             ],
             [
-                0,
-                0
+                "32",
+                "Programowanieaplikacjiwebowych"
             ],
             [
-                0,
-                0
+                "50",
+                "Pracowniaaplikacjiwebowych-2/2"
             ],
             [
                 0,
@@ -17370,12 +17370,1776 @@
                 "Pracowniawitryninternetowych-1/2"
             ],
             [
+                "50",
+                "Pracowniaaplikacjiwebowych-2/2"
+            ],
+            [
+                "50",
+                "Pracowniaaplikacjiwebowych-2/2"
+            ],
+            [
                 0,
                 0
             ],
             [
                 0,
                 0
+            ]
+        ]
+    ],
+    "GK": [
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                "58",
+                "Pracowniaaplikacjidesktopowych-1/2"
+            ],
+            [
+                "58",
+                "Pracowniaaplikacjidesktopowych-1/2"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                "50",
+                "Pracowniaaplikacjidesktopowych-1/2"
+            ],
+            [
+                "50",
+                "Pracowniaaplikacjidesktopowych-1/2"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ]
+    ],
+    "PH": [
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                "50",
+                "Pracowniaaplikacjidesktopowych-2/2"
+            ],
+            [
+                "50",
+                "Pracowniaaplikacjidesktopowych-2/2"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                "40",
+                "Pracowniaaplikacjidesktopowych-2/2"
+            ],
+            [
+                "40",
+                "Pracowniaaplikacjidesktopowych-2/2"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ]
+    ],
+    "DK": [
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                "44",
+                "Programowanieaplikacjidesktopowych"
+            ],
+            [
+                "44",
+                "Programowanieaplikacjidesktopowych"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                "31",
+                "Programowanieaplikacjidesktopowych"
+            ],
+            [
+                "31",
+                "Programowanieaplikacjidesktopowych"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ]
+    ],
+    "FR": [
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                "50",
+                "Pracowniatestowaniaidokumentowaniaaplikacji-1/2"
+            ],
+            [
+                "50",
+                "Pracowniatestowaniaidokumentowaniaaplikacji-2/2"
+            ],
+            [
+                "50",
+                "Pracowniatestowaniaidokumentowaniaaplikacji-1/2"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ]
+    ],
+    "WR": [
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                "46",
+                "Pracowniatechnologiiipomiar\u00f3wwautomatyce-2/3"
+            ],
+            [
+                "46",
+                "Pracowniatechnologiiipomiar\u00f3wwautomatyce-2/3"
+            ],
+            [
+                "46",
+                "Pracowniainstalacjiautomatykiprzemys\u0142owej-2/3"
+            ],
+            [
+                "46",
+                "Pracowniainstalacjiautomatykiprzemys\u0142owej-2/3"
+            ],
+            [
+                "46",
+                "Pracowniainstalacjiautomatykiprzemys\u0142owej-2/3"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ]
+    ],
+    "KG": [
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                "38",
+                "Przygotowaniepraktycznedozawodumaszynisty-1/3"
+            ],
+            [
+                "38",
+                "Przygotowaniepraktycznedozawodumaszynisty-1/3"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                "@",
+                "Pracowniaeksploatacji\u015brodk\u00f3wtransportuszynowego-2/6"
+            ],
+            [
+                "@",
+                "Pracowniaeksploatacji\u015brodk\u00f3wtransportuszynowego-2/6"
+            ],
+            [
+                "@",
+                "Pracowniaeksploatacji\u015brodk\u00f3wtransportuszynowego-2/6"
+            ],
+            [
+                "@",
+                "Przygotowaniepraktycznedozawodumaszynisty-2/6"
+            ],
+            [
+                "@",
+                "Pracowniaeksploatacji\u015brodk\u00f3wtransportuszynowego-2/6"
+            ],
+            [
+                "@",
+                "Przygotowaniepraktycznedozawodumaszynisty-2/6"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ]
+    ],
+    "KUK": [
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                "57",
+                "Pracowniawitryninternetowych-1/2"
+            ],
+            [
+                "57",
+                "Witrynyiaplikacjeinternetowe"
+            ],
+            [
+                "57",
+                "Pracowniawitryninternetowych-1/2"
+            ],
+            [
+                "57",
+                "Pracowniawitryninternetowych-1/2"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                "57",
+                "Pracowniawitryninternetowych-1/2"
+            ],
+            [
+                "18",
+                "Witrynyiaplikacjeinternetowe"
+            ],
+            [
+                "57",
+                "Pracowniawitryninternetowych-1/2"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                "36",
+                "Witrynyiaplikacjeinternetowe"
+            ],
+            [
+                "36",
+                "Witrynyiaplikacjeinternetowe"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                "57",
+                "Pracowniawitryninternetowych-2/2"
+            ],
+            [
+                "57",
+                "Pracowniawitryninternetowych-2/2"
+            ],
+            [
+                "57",
+                "Pracowniawitryninternetowych-2/2"
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                "57",
+                "Pracowniawitryninternetowych-2/2"
+            ],
+            [
+                "57",
+                "Pracowniawitryninternetowych-2/2"
+            ],
+            [
+                "57",
+                "Pracowniawitryninternetowych-2/2"
+            ],
+            [
+                "57",
+                "Pracowniawitryninternetowych-1/2"
             ],
             [
                 0,
